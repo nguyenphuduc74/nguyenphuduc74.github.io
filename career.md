@@ -1,118 +1,76 @@
-# Welcome to Dillinger
-
-A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
-
+---
+title: Chân dung nghề của tôi
 ---
 
-## Text Formatting
+# Chân dung nghề của tôi
 
-Markdown makes it easy to format text. You can write in **bold**, *italic*, or ~~strikethrough~~. Combine them for ***bold italic*** text. Use `inline code` for technical terms.
+> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
+> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
-## Lists
+## Hướng tôi nhắm
 
-Unordered lists use dashes, asterisks, or plus signs:
+…
 
-- Import files from GitHub, Dropbox, or Google Drive
-- Export to Markdown, HTML, or PDF
-- Drag and drop files directly into the editor
+Vì sao: …
 
-Ordered lists are numbered automatically:
+## Bảng năng lực rút từ ba tin tuyển dụng
 
-1. Write your markdown
-2. Preview the rendered output
-3. Export or save to the cloud
+Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-Nested lists work too:
+| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
+|---|---|---|---|---|
+| Kiến thức | … | … | … | chưa / một phần / rồi |
+| Kỹ năng | … | … | … | … |
+| Thái độ | … | … | … | … |
+| Công cụ | … | … | … | … |
 
-- Cloud integrations
-  - GitHub repositories
-  - Dropbox folders
-  - Google Drive files
-  - OneDrive and Bitbucket
-- Local features
-  - Auto-save to browser storage
-  - Image paste from clipboard
+## Ba tin tuyển dụng
 
-## Task Lists
+| # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
+|---|---|---|---|---|
+| 1 | … | … | … | …/…/… |
+| 2 | … | … | … | …/…/… |
+| 3 | … | … | … | …/…/… |
 
-- [x] Set up the editor
-- [x] Write some markdown
-- [ ] Connect a cloud service
-- [ ] Export the finished document
+Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
-## Links and Images
+## Hai chỗ AI tự thêm mà tôi bắt được
 
-Link to any page with [inline links](https://dillinger.io) or use [reference-style links][dillinger].
+**Chỗ thứ nhất**
 
-Images use a similar syntax:
+- AI viết: …
+- Tin tuyển dụng thật ra viết: …
+- Tôi sửa thành: …
 
-![Placeholder](https://placehold.co/600x200/2B2F36/35D7BB?text=Your+Image+Here)
+**Chỗ thứ hai**
 
-[dillinger]: https://dillinger.io
+- AI viết: …
+- Tin tuyển dụng thật ra viết: …
+- Tôi sửa thành: …
 
-## Blockquotes
+## Một quyết định đạo đức
 
-> The art of writing is the art of discovering what you believe.
->
-> — Gustave Flaubert
+Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-Blockquotes can contain other markdown elements:
+- Phía luật sư công ty lập luận rằng: …
+- Phía người dùng lập luận rằng: …
+- **Quyết định của tôi**, và vì sao: …
 
-> **Tip:** Use `Cmd+Shift+Z` to enter zen mode for distraction-free writing.
+## Ba việc tôi làm trong học kỳ này
 
-## Code
+1. …
+2. …
+3. …
 
-Fenced code blocks support syntax highlighting:
+Cụ thể tới mức tháng sau kiểm được.
 
-```javascript
-function greet(name) {
-  return `Hello, ${name}.`;
-}
+## Tôi đã làm việc với AI thế nào
 
-console.log(greet("world"));
-```
+| Bước | Tôi đã làm gì |
+|---|---|
+| **Hỏi** | … |
+| **Hoài** | … |
+| **Học** | … |
+| **Hành** | … |
 
-```python
-def fibonacci(n):
-    a, b = 0, 1
-    for _ in range(n):
-        a, b = b, a + b
-    return a
-```
-
-## Tables
-
-| Shortcut | Action |
-|----------|--------|
-| `⌘ ⇧ Z` | Toggle zen mode |
-| `Escape` | Exit zen mode |
-| `?` | Keyboard shortcuts |
-
-Tables support alignment:
-
-| Feature | Status | Notes |
-|:--------|:------:|------:|
-| Markdown editing | Active | Monaco-powered |
-| Live preview | Active | Scroll-synced |
-| Cloud sync | Available | 5 providers |
-| PDF export | Available | Server-rendered |
-
-## Footnotes
-
-Dillinger supports extended markdown syntax including footnotes[^1] and definition lists.
-
-[^1]: Footnotes appear at the bottom of the rendered preview.
-
-## Math
-
-Inline math: $E = mc^2$
-
-Block equations:
-
-$$
-\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-$$
-
----
-
-*Your documents save automatically. Start writing.*
+Công cụ đã dùng: …
