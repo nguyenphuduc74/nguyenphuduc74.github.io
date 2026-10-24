@@ -33,9 +33,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 <div style="background-color: #eff7f2; border-left: 5px solid #81c784; border-radius: 6px; padding: 16px;">
  <font size="3"><b>Ảnh chụp màn hình ba tin tuyển dụng</b></font><br> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/tree/main/anh"><b>Xem tại đây</b></a><br>
   <font size="4"><i>hoặc</i></font><br>
-  <b>Tin tuyển dụng 1:</b> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%201.png"><b>Xem ảnh chụp màn hình</b></a><br>
-  <b>Tin tuyển dụng 2:</b> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%202.png"><b>Xem ảnh chụp màn hình</b></a><br>
-  <b>Tin tuyển dụng 3:</b> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%203.png"><b>Xem ảnh chụp màn hình</b></a>
+  <font size="3"><b>Tin tuyển dụng 1:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%201.png"><b>Xem ảnh chụp màn hình</b></a><br>
+  <font size="3"><b>Tin tuyển dụng 2:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%202.png"><b>Xem ảnh chụp màn hình</b></a><br>
+  <font size="3"><b>Tin tuyển dụng 3:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%203.png"><b>Xem ảnh chụp màn hình</b></a>
 </div>
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
@@ -74,7 +74,7 @@ Cụ thể tới mức tháng sau kiểm được.
 | Bước | Tôi đã làm gì |
 |---|---|
 | **Hỏi** | - Yêu cầu AI phân tích và trích xuất thông tin theo 4 nhóm (Kiến thức, Kỹ năng, Thái độ, Công cụ) từ 3 tin tuyển dụng (Marketing, IT, Sale MT) <br/> - Nhờ AI phân tích tình huống xung đột giữa lập luận pháp lý của luật sư và quyền riêng tư của người dùng, từ đó gợi ý góc nhìn để đưa ra quyết định phù hợp. |
-| **Hoài** | - Đặt lại câu hỏi kiểm tra ("Hai chỗ AI tự thêm mà tôi bắt được") và đối chiếu trực tiếp dữ liệu AI trả về với nội dung thực tế trong 3 ảnh tin tuyển dụng. <br/> - Phát hiện và nhặt ra 2 lỗi sai do AI suy đoán: (1) AI ghép nhầm yêu cầu "Đọc hiểu/nghiên cứu tài liệu" của vị trí IT sang vị trí Marketing; (2) AI xếp nhầm dòng "Hệ thống quản lý và đánh giá công việc" của vị trí IT sang mục Kiến thức của vị trí Sale MT.    |
+| **Hoài** | - Đặt lại câu hỏi kiểm tra ("Hai chỗ AI tự thêm mà tôi bắt được") và đối chiếu trực tiếp dữ liệu AI trả về với nội dung thực tế trong 3 tin tuyển dụng. <br/> - Phát hiện và nhặt ra 2 lỗi sai do AI suy đoán: (1) AI ghép nhầm yêu cầu "Đọc hiểu/nghiên cứu tài liệu" của vị trí IT sang vị trí Marketing; (2) AI xếp nhầm dòng "Hệ thống quản lý và đánh giá công việc" của vị trí IT sang mục Kiến thức của vị trí Sale MT.    |
 | **Học** |- Nắm vững nguyên tắc phân định ranh giới đạo đức dữ liệu (quyền riêng tư người dùng vs. lập luận an toàn pháp lý ngắn hạn của luật sư). |
 | **Hành** | - Trực tiếp chỉnh sửa, loại bỏ các chi tiết do AI tự thêm để hoàn thiện Bảng năng lực rút từ ba tin tuyển dụng. <br> - Tự mình đưa ra Quyết định đạo đức lập trường vững chắc (tạm dừng tính năng thu thập vị trí) cùng lý do thuyết phục. |
 
