@@ -33,9 +33,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 <div style="background-color: #eff7f2; border-left: 5px solid #81c784; border-radius: 6px; padding: 16px;">
  <font size="3"><b>Ảnh chụp màn hình ba tin tuyển dụng</b></font><br> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/tree/main/anh"><b>Xem tại đây</b></a><br>
   <font size="4"><i>hoặc</i></font><br>
-  <font size="3"><b>Tin tuyển dụng 1:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%201.png"><b>Xem ảnh chụp màn hình</b></a><br>
-  <font size="3"><b>Tin tuyển dụng 2:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%202.png"><b>Xem ảnh chụp màn hình</b></a><br>
-  <font size="3"><b>Tin tuyển dụng 3:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%203.png"><b>Xem ảnh chụp màn hình</b></a>
+  <font size="3"><b>Tin tuyển dụng 1:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%201.png"><font size="3"><b>Xem ảnh chụp màn hình</b></font></a><br>
+  <font size="3"><b>Tin tuyển dụng 2:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%202.png"><font size="3"><b>Xem ảnh chụp màn hình</b></font></a><br>
+  <font size="3"><b>Tin tuyển dụng 3:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%203.png"><font size="3"><b>Xem ảnh chụp màn hình</b></font></a>
 </div>
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
