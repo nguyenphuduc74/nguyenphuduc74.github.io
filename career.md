@@ -31,7 +31,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 3 | Công Ty TNHH America Cook Viet Nam | Nhân Viên Sale/Kinh Doanh Kênh Siêu Thị (Mt) - Làm Việc Với Emart, Go!, Co.Op,... | https://vieclam24h.vn/ban-si-ban-le-quan-ly-cua-hang/nhan-vien-sale-kinh-doanh-kenh-sieu-thi-mt-lam-viec-voi-emart-go-co-op-c6p122id200943941.html?open_from=0301_2_9&search_id=b7c97bb9745eb3ce43d957cf52f8fcca | 25/09/2026 |
 
 <div style="background-color: #eff7f2; border-left: 5px solid #81c784; border-radius: 6px; padding: 16px;">
- <font size="3"><b>Ảnh chụp màn hình ba tin tuyển dụng</b></font><br> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/tree/main/anh"><b>Xem tại đây</b></a><br>
+ <font size="3"><b>Ảnh chụp màn hình ba tin tuyển dụng</b></font><br> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/tree/main/anh"><font size="3.5"><b>Xem tại đây</b></font></a><br>
   <font size="4"><i>hoặc</i></font><br>
   <font size="3"><b>Tin tuyển dụng 1:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%201.png"><font size="3.5"><b>Xem ảnh chụp màn hình</b></font></a><br>
   <font size="3"><b>Tin tuyển dụng 2:</b></font> <a href="https://github.com/nguyenphuduc74/nguyenphuduc74.github.io/blob/main/anh/Tin%202.png"><font size="3.5"><b>Xem ảnh chụp màn hình</b></font></a><br>
