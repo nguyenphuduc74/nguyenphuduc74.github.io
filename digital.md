@@ -25,9 +25,9 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | 2 | Năng lực thông tin và dữ liệu | chưa có | … |
 | 3 | Giao tiếp và hợp tác trong môi trường số | đang tập | … |
 | 4 | Sáng tạo nội dung số | dùng được | Sử dụng thành thạo các slide bài thuyết trình trên Canva; biên tập video ngắn bằng CapCut; soạn thảo tài liệu chuẩn định dạng trên Google Docs/MS Word. |
-| 5 | An ninh và an toàn trên không gian mạng | đang tập |Đang thực hành đặt mật khẩu mạnh, bật xác thực 2 lớp (2FA) và chủ động tìm hiểu các hình thức lừa đảo trực tuyến phổ biến để phòng tránh. |
+| 5 | An ninh và an toàn trên không gian mạng | dùng được |Đang thực hành đặt mật khẩu mạnh, bật xác thực 2 lớp (2FA) và chủ động tìm hiểu các hình thức lừa đảo trực tuyến phổ biến để phòng tránh. |
 | 6 | Học tập và phát triển kỹ năng số | dùng được | Hoàn thành các khóa học trực tuyến,dùng công cụ AI (ChatGPT, Claude, Gemini) hỗ trợ tóm tắt tài liệu và lập kế hoạch học tập. |
-| 7 | Năng lực số liên quan đến nghề nghiệp | dùng được | Biết tích hợp và sử dụng hiệu quả các công cụ trợ lý mã nguồn (GitHub , ChatGPT, Cursor) để tối ưu hóa tốc độ viết code và debug. Thành thạo ít nhất một ngôn ngữ lập trình chủ đạo (Python, C++, Java, JavaScript) để xây dựng ứng dụng hoặc giải quyết bài toán thuật toán; biết sử dụng Git/GitHub để quản lý mã nguồn và làm việc nhóm. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | đang tập | Biết tích hợp và sử dụng hiệu quả các công cụ trợ lý mã nguồn (GitHub , ChatGPT, Cursor) để tối ưu hóa tốc độ viết code và debug. Thành thạo ít nhất một ngôn ngữ lập trình chủ đạo (Python, C++, Java, JavaScript) để xây dựng ứng dụng hoặc giải quyết bài toán thuật toán; biết sử dụng Git/GitHub để quản lý mã nguồn và làm việc nhóm. |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
