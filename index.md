@@ -10,7 +10,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng **Kỹ S
 - ***Năm*** việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - ***Ba*** việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-*<ducnpit1218@gmail.com>* · *<https://nguyenphuduc74.github.io>*
+**<ducnpit1218@gmail.com>** · ***<https://nguyenphuduc74.github.io>**
 
 Trang này ghi lại những gì tôi làm trong học phần **Nhập môn ngành Khoa học máy tính**.
 Sáu bài, sáu trang, một hành trình
@@ -30,4 +30,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: 29/10/2026 · Liên hệ: **<ducnpit1218@gmail.com>**
+*Cập nhật lần cuối: 29/10/2026 · Liên hệ: ***<ducnpit1218@gmail.com>***
