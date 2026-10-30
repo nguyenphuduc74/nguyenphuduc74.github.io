@@ -78,4 +78,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** |- Nắm vững nguyên tắc phân định ranh giới đạo đức dữ liệu (quyền riêng tư người dùng vs. lập luận an toàn pháp lý ngắn hạn của luật sư). |
 | **Hành** | - Trực tiếp chỉnh sửa, loại bỏ các chi tiết do AI tự thêm để hoàn thiện Bảng năng lực rút từ ba tin tuyển dụng. <br> - Tự mình đưa ra Quyết định đạo đức lập trường vững chắc (tạm dừng tính năng thu thập vị trí) cùng lý do thuyết phục. |
 
-> **Công cụ đã dùng:** Google AI, Chatgpt, Gemini
+> **Công cụ đã dùng:** *Google AI, Chatgpt, Gemini, NotebookLM*
