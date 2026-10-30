@@ -31,6 +31,6 @@ Viết thật. Bài nào cũng có một trang như vậy.
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: https://drive.google.com/file/d/1m3EfkBXwQ2cu7rE2pCEUxlJzL6ePmn8P/view?usp=sharing
+Đường dẫn: <https://drive.google.com/file/d/1m3EfkBXwQ2cu7rE2pCEUxlJzL6ePmn8P/view?usp=sharing>
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
