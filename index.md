@@ -6,9 +6,9 @@ title: Hồ sơ nhập ngành
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng **Kỹ Sư Phần Mềm**
 
-- ***Bảy*** việc đã làm số 1, kèm một con số → [career.md](career.md)
-- ***Năm*** việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- ***Ba*** việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+- Dựng chân dung nghề từ 3 tin tuyển dụng thật → [career.md](career.md)
+- Xếp lộ trình 8 học kỳ, cộng đúng 150 tín chỉ → [roadmap.md](roadmap.md)
+- Kiểm định một công cụ AI, bắt được 3 lỗi → [ai-audit.md](ai-audit.md)
 
 <em><ducnpit1218@gmail.com></em> · <em><https://nguyenphuduc74.github.io></em>
 
